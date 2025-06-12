@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: #87CEEB;
+    overflow-x: hidden;
+    font-family: "Montserrat", sans-serif;
+}
+.animatedButton{
+    animation-duration: 10000ms;
+}
+.ql-editor
+{
+    border: none !important;
+}
+.ql-container
+{
+    border: none !important;
+}
+.search{
+    top: 30.75rem;
+}
+.profile{
+    position:sticky;
+    top: 4.15rem;
+}
+.action{
+    top: 11rem;
+}
+.nav-bar{
+     background-color: #87CEEB;
+
+}
+.catSearchDiv{
+    position: sticky !important;
+    top:36rem !important;
+
+}
